@@ -41,6 +41,8 @@ http://getthru.govt.nz/disasters/earthquake/ -good
 https://www.youtube.com/watch?v=0GRxSVZH3kI -bad
     The video is titled "How to quickly defrost bread" and fails to explain how to do so.
     
-
+http://www.digitaltrends.com/computing/a-beginners-guide-to-tor-how-to-navigate-through-the-underground-internet/
+    Something that i have found very common is the qualaty of third party tutorals tends
+    to be far better than that of the creator
 
 #mild dyslexia
