@@ -28,6 +28,12 @@ https://support.google.com/websearch/answer/134479?hl=en -good
     The page explains how to use google. It is simple as wht it is trying to help the user with is ofcause, very simple.
     The user most likley found the page bycorectly using the software that the manual isexplaning how to use.
     
+http://getthru.govt.nz/disasters/earthquake/ -good
+    The page is aimed for people of all ages to be able to use. The page uses a mix of video and text based tutorials to       explain the correct practise in different life threatening scenarios.
+
+https://www.youtube.com/watch?v=0GRxSVZH3kI -bad
+    The video is titled "How to quickly defrost bread" and fails to explain how to do so.
+    
 
 
 #mild dyslexia
