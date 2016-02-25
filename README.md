@@ -23,5 +23,11 @@ http://www.commodore.ca/manuals/c64_users_guide/c64-users_guide.htm -very good
     The manual for the commodore 64 is an excellent example of a well thought out, non patronising help text. 
     Not only does it teach you how to use the hardware but also explains 
     how to write basic software and fix the hardware should anything go wrong.
+    
+https://support.google.com/websearch/answer/134479?hl=en -good
+    The page explains how to use google. It is simple as wht it is trying to help the user with is ofcause, very simple.
+    The user most likley found the page bycorectly using the software that the manual isexplaning how to use.
+    
+
 
 #mild dyslexia
